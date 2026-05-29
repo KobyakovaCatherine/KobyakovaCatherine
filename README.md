@@ -38,7 +38,8 @@ ___
 Тетстирование API и анализ трафика: 
 
 <img src="https://cdn.simpleicons.org/charles/000000" width="38"/>
-<img src="https://www.postman.com/"/>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="106" height="106" alt="Postman Icon in SVG, PNG formats" title="Postman Icon">
+<img src=""/>
 
 # Tech Stack 🛠:
 
