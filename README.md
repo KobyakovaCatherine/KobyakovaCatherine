@@ -35,7 +35,7 @@ Bug Tracking & Project Management Tools:
 
 - Jira  <img src="https://cdn.simpleicons.org/jira/0052CC" width="38"/>
 - YouTrack <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/960px-YouTrack_Icon.svg.png?_=20200803082248" width="38"/>
-- YouGile <img src="https://play-lh.googleusercontent.com/i3MIAV-tln_BfssNq_1fUJlg5VxyjQt1WMBcsF2JP29jdguvt-lrJldJbOvZlzhYhxACM8NLWDOkQBrxnQ-moA=w480-h960-rw">
+- YouGile <img src="https://play-lh.googleusercontent.com/i3MIAV-tln_BfssNq_1fUJlg5VxyjQt1WMBcsF2JP29jdguvt-lrJldJbOvZlzhYhxACM8NLWDOkQBrxnQ-moA=w480-h960-rw" width="38" height="38">
 #
 API Testing & Network Traffic Analysis:
 
