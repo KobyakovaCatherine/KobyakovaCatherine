@@ -31,12 +31,10 @@ ___
 
 ___
 # QA Tools:
-Баг-трекинговые системы и инструменты управления проектами: 
-
+Bug Tracking & Project Management Tools:
 <img src="https://cdn.simpleicons.org/jira/0052CC" width="38"/>
 
-Тетстирование API и анализ трафика: 
-
+API Testing & Network Traffic Analysis:
 <img src="https://cdn.simpleicons.org/charles/000000" width="38"/>
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="38" height="38" alt="Postman Icon in SVG, PNG formats" title="Postman Icon">
 
