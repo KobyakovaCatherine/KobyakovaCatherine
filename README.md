@@ -24,7 +24,8 @@ ___
 # GitHub Stats 📊:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KobyakovaCatherine&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KobyakovaCAtherine&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KobyakovaCatherine&layout=compact)
 
 ___
 # Tech Stack🛠:
@@ -34,6 +35,6 @@ ___
 ___
 # Contact me ✍️:
 
-- Telegram @kobyakoshka 
+- Telegram: @kobyakoshka 
 - Email: kobyakova2018@bk.ru
   
