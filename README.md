@@ -44,8 +44,8 @@ Bug Tracking & Project Management Tools:
 - Charles  <img src="https://64.media.tumblr.com/c40e81596f30adf8690ee26aa12e888f/tumblr_inline_ob8z21ogTu1r2onau_400.png" width="38" height="38">
 
 # Frontend Basics
-- HTML ![My Skills](https://skillicons.dev/icons?i=html,css,)
-- CSS
+- HTML ![My Skills](https://skillicons.dev/icons?i=html)
+- CSS  ![My Skills](https://skillicons.dev/icons?i=css)
   
 # Mobile Testing 
 - Android Studio ![My Skills](https://skillicons.dev/icons?i=)
