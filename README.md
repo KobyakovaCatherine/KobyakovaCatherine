@@ -46,7 +46,7 @@ Bug Tracking & Project Management Tools:
 # Databases & SQL
 - PostgreSQL <img src="https://upload.wikimedia.org/wikipedia/commons/thu…ql_elephant.svg/500px-Postgresql_elephant.svg.png" width ="38" height ="38">
 - DBeaver <img src="https://github.com/dbeaver/dbeaver/wiki/images/dbeaver-head.png" width ="38" height ="38">
-- MySQL <img src= "/sites/default/files/styles/large_screens_1x/public/2021-09/ECX-1909_Hero_MySQL_600x400%402x-1.png" width ="38" height ="38">
+- MySQL <img src="/sites/default/files/styles/large_screens_1x/public/2021-09/ECX-1909_Hero_MySQL_600x400%402x-1.png" width ="38" height ="38">
 
 # Frontend Basics
 - HTML <img src ="https://soltech.net/wp-content/uploads/2014/05/HTML5.webp" width ="38" height ="38">
