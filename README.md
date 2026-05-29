@@ -32,10 +32,6 @@ ___
 ___
 # QA Tools:
 
-## 🧪 QA Tools
-
-## 🧪 QA Tools
-
 <img src="https://cdn.simpleicons.org/jira/0052CC" width="38"/>
 <img src="https://cdn.simpleicons.org/charles/000000" width="38"/>
 
