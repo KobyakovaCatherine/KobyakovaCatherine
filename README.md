@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Catherine 👋
 
 <!--
 **KobyakovaCatherine/KobyakovaCatherine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+___
+# About me 👩🏻‍💻: 
+
+- Manual QA Engineer - 8 months of experience 
+
+- Learning Automation (Python + PyTest)
+___
+# GitHub Stats 📊:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KobyakovaCatherine&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KobyakovaCAtherine&layout=compact)
+
+___
+# Tech Stack🛠:
+
+![My Skills](https://skillicons.dev/icons?i=python,postgres,docker,git,)
+
+___
+# Contact me ✍️:
+
+- Telegram @kobyakoshka 
+- Email: kobyakova2018@bk.ru
+  
