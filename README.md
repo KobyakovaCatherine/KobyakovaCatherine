@@ -50,7 +50,7 @@ Bug Tracking & Project Management Tools:
 
 # Frontend Basics
 - HTML <img src ="https://soltech.net/wp-content/uploads/2014/05/HTML5.webp" width ="38" height ="38">
-- CSS  <ing src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" width ="38" height ="38">
+- CSS  <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" width ="38" height ="38">
   
 # Mobile Testing 
 - Android Studio <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" width ="38" height ="38">
