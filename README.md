@@ -62,9 +62,10 @@ Bug Tracking & Project Management Tools:
 ___
 # Contact me ✍️:
 
-- Telegram:
   <a href="https://t.me/kobyakoshka" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-- Email: kobyakova2018@bk.ru
+<a href="mailto:kobyakova2018@bk.ru" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+</a>
   
