@@ -20,8 +20,9 @@ ___
 - Manual QA Engineer - 8 months of experience 
 
 - Learning Automation (Python + PyTest)
+<!-- 
 ___
-<!--# GitHub Stats 📊:
+# GitHub Stats 📊:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KobyakovaCatherine&show_icons=true&theme=tokyonight)
 
