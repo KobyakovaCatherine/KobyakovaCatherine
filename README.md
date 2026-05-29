@@ -32,8 +32,7 @@ ___
 ___
 # QA Tools:
 
-
-![Jira](https://skillicons.dev/icons?i=jira)
+![Charles](https://skillicons.dev/icons?i=charles)
 
 ![Postman](https://skillicons.dev/icons?i=postman)
 
