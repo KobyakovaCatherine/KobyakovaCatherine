@@ -32,9 +32,9 @@ ___
 ___
 # QA Tools:
 
-![Jira](https://cdn.simpleicons.org/jira/0052CC)
+## 🧪 QA Tools
 
-![Charles](https://cdn.simpleicons.org/charles/000000)
+![Skills](https://skillicons.dev/icons?i=jira,postman,git)
 
 ![Postman](https://skillicons.dev/icons?i=postman)
 
