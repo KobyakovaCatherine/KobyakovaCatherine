@@ -34,13 +34,12 @@ ___
 Баг-трекинговые системы и инструменты управления проектами: 
 
 <img src="https://cdn.simpleicons.org/jira/0052CC" width="38"/>
-<p align="left">
-  <img src="https://cdn.simpleicons.org/youtrack" height="40" />
+<img src="https://cdn.simpleicons.org/youtrack" height="40" />
+YouGile
+Тетстирование API и анализ трафика: 
 
-  <img src="https://cdn.simpleicons.org/yougile" height="40" />
-
-</p>
 <img src="https://cdn.simpleicons.org/charles/000000" width="38"/>
+![Postman](https://skillicons.dev/icons?i=postman)
 
 # Tech Stack 🛠:
 
