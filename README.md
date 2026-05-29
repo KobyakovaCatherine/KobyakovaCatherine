@@ -38,7 +38,7 @@ ___
 Тетстирование API и анализ трафика: 
 
 <img src="https://cdn.simpleicons.org/charles/000000" width="38"/>
-<img src="https://assets.stickpng.com/images/62cc1b51150d5de9a3dad5f8.png"/>
+<img src="https://www.postman.com/"/>
 
 # Tech Stack 🛠:
 
