@@ -33,12 +33,12 @@ ___
 # QA Tools:
 Bug Tracking & Project Management Tools:
 
-- Jira <img src="https://cdn.simpleicons.org/jira/0052CC" width="38"/>
+- Jira  <img src="https://cdn.simpleicons.org/jira/0052CC" width="38"/>
 
 API Testing & Network Traffic Analysis:
 
-- Charles <img src="https://cdn.simpleicons.org/charles/000000" width="38"/>
-- Postman <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="38" height="38" alt="Postman Icon in SVG, PNG formats" title="Postman Icon">
+- Charles  <img src="https://cdn.simpleicons.org/charles/000000" width="38"/>
+- Postman  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="38" height="38" alt="Postman Icon in SVG, PNG formats" title="Postman Icon">
 
 
 # Tech Stack 🛠:
