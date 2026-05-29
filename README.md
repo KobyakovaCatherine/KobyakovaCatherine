@@ -34,9 +34,10 @@ ___
 
 ## 🧪 QA Tools
 
-![Skills](https://skillicons.dev/icons?i=jira,postman,git)
+## 🧪 QA Tools
 
-![Postman](https://skillicons.dev/icons?i=postman)
+<img src="https://cdn.simpleicons.org/jira/0052CC" width="38"/>
+<img src="https://cdn.simpleicons.org/charles/000000" width="38"/>
 
 # Tech Stack 🛠:
 
