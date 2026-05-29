@@ -40,7 +40,7 @@ Bug Tracking & Project Management Tools:
   
 # API Testing & Network Traffic Analysis:
 - Postman  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="38" height="38">
-- Swagger
+- Swagger <img src="https://help.apiary.io/images/swagger-logo.png" width="38" height="38">
 - Charles  <img src="https://64.media.tumblr.com/c40e81596f30adf8690ee26aa12e888f/tumblr_inline_ob8z21ogTu1r2onau_400.png" width="38" height="38">
 
 # Frontend Basics
