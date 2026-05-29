@@ -30,7 +30,11 @@ ___
 -->
 
 ___
-# Tech Stack🛠:
+# QA Tools:
+![Jira](https://skillicons.dev/icons?i=jira)
+![YouTrack](https://skillicons.dev/icons?i=youtrack)
+
+# Tech Stack 🛠:
 
 ![My Skills](https://skillicons.dev/icons?i=python,postgres,docker,git,)
 
