@@ -30,22 +30,29 @@ ___
 -->
 
 ___
-# QA Tools:
+# QA Tools and Tech Stack 🛠:
 Bug Tracking & Project Management Tools:
 
 - Jira  <img src="https://cdn.simpleicons.org/jira/0052CC" width="38"/>
 - YouTrack <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/960px-YouTrack_Icon.svg.png?_=20200803082248" width="38"/>
 - YouGile <img src="https://play-lh.googleusercontent.com/i3MIAV-tln_BfssNq_1fUJlg5VxyjQt1WMBcsF2JP29jdguvt-lrJldJbOvZlzhYhxACM8NLWDOkQBrxnQ-moA=w480-h960-rw" width="38" height="38">
-#
-API Testing & Network Traffic Analysis:
-
-- Charles  <img src="https://64.media.tumblr.com/c40e81596f30adf8690ee26aa12e888f/tumblr_inline_ob8z21ogTu1r2onau_400.png" width="38" height="38">
+- Confluence
+  
+# API Testing & Network Traffic Analysis:
 - Postman  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="38" height="38" alt="Postman Icon in SVG, PNG formats" title="Postman Icon">
+- Swagger
+- Charles  <img src="https://64.media.tumblr.com/c40e81596f30adf8690ee26aa12e888f/tumblr_inline_ob8z21ogTu1r2onau_400.png" width="38" height="38">
 
+# Frontend Basics
+- HTML
+- CSS
+  
+# Mobile Testing 
+- Android Studio
 
-# Tech Stack 🛠:
+# In Progress :
 
-![My Skills](https://skillicons.dev/icons?i=python,postgres,docker,git,)
+![My Skills](https://skillicons.dev/icons?i=python,docker,git,)
 
 ___
 # Contact me ✍️:
