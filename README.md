@@ -31,8 +31,11 @@ ___
 
 ___
 # QA Tools:
+
+
 ![Jira](https://skillicons.dev/icons?i=jira)
-![YouTrack](https://skillicons.dev/icons?i=youtrack)
+
+![Postman](https://skillicons.dev/icons?i=postman)
 
 # Tech Stack 🛠:
 
