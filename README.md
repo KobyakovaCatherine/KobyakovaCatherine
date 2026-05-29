@@ -1,6 +1,6 @@
 # Hi, I'm Catherine 👋
-
-№ About me 👩🏻‍💻: 
+---
+# About me 👩🏻‍💻: 
 
 - Manual QA Engineer - 8 months of experience 
 
