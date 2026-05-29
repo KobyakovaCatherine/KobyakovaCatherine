@@ -43,12 +43,17 @@ Bug Tracking & Project Management Tools:
 - Swagger <img src="https://help.apiary.io/images/swagger-logo.png" width="38" height="38">
 - Charles  <img src="https://64.media.tumblr.com/c40e81596f30adf8690ee26aa12e888f/tumblr_inline_ob8z21ogTu1r2onau_400.png" width="38" height="38">
 
+# Databases & SQL
+- PostgreSQL <img src="https://upload.wikimedia.org/wikipedia/commons/thu…ql_elephant.svg/500px-Postgresql_elephant.svg.png" width ="38" height ="38">
+- DBeaver <img src="https://github.com/dbeaver/dbeaver/wiki/images/dbeaver-head.png" width ="38" height ="38">
+- MySQL <img src= "/sites/default/files/styles/large_screens_1x/public/2021-09/ECX-1909_Hero_MySQL_600x400%402x-1.png" width ="38" height ="38">
+
 # Frontend Basics
-- HTML ![My Skills](https://skillicons.dev/icons?i=html)
-- CSS  ![My Skills](https://skillicons.dev/icons?i=css)
+- HTML <img src ="https://soltech.net/wp-content/uploads/2014/05/HTML5.webp" width ="38" height ="38">
+- CSS  <ing src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" width ="38" height ="38">
   
 # Mobile Testing 
-- Android Studio ![My Skills](https://skillicons.dev/icons?i=)
+- Android Studio <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" width ="38" height ="38">
 
 # In Progress :
 
