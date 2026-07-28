@@ -2,7 +2,7 @@
 ---
 # About me 👩🏻‍💻: 
 
-- Manual QA Engineer - 8 months of experience 
+- Manual QA Engineer - 10 months of experience 
 
 - Learning Automation (Python + PyTest)
 <!-- 
